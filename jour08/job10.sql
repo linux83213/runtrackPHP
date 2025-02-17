@@ -1,0 +1,1 @@
+SELECT SUM(superficie) AS superficie_totale FROM jour8.étages;

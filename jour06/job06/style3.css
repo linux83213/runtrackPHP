@@ -1,0 +1,32 @@
+/* Style 3 */
+body {
+    background-color: #f4f4f4;
+    font-family: 'Verdana', sans-serif;
+    color: #222;
+    text-align: center;
+}
+
+form {
+    background-color: #e8e8e8;
+    padding: 25px;
+    border-radius: 10px;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.15);
+    display: inline-block;
+    margin-top: 50px;
+}
+
+select, button {
+    padding: 8px;
+    font-size: 14px;
+}
+
+button {
+    background-color: #1e90ff;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #4682b4;
+}

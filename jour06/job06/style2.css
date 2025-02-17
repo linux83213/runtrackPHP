@@ -1,0 +1,32 @@
+/* Style 2 */
+body {
+    background-color: #f0e68c;
+    font-family: 'Courier New', Courier, monospace;
+    color: #555;
+    text-align: center;
+}
+
+form {
+    background-color: #fff;
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+    display: inline-block;
+    margin-top: 50px;
+}
+
+select, button {
+    padding: 12px;
+    font-size: 18px;
+}
+
+button {
+    background-color: #ff6347;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #e53e33;
+}
